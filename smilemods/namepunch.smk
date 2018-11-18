@@ -1,0 +1,1 @@
+/data/data/com.kknet.term/bin/busybox cp /sdcard/smilemods/namepunch/jh_api_userinfo.json /sdcard/smilezemi_jh/cm/command

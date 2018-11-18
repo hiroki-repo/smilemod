@@ -1,0 +1,6 @@
+if [ "$(/data/data/com.kknet.term/bin/busybox cat /sdcard/smilezemi_jh/cm/command/jh_api_userinfo.json)" = "$(/data/data/com.kknet.term/bin/busybox cat /sdcard/smilemods/namepunch/jh_api_userinfo.json)" ] ;then
+name=$(cat /sdcard/smilezemi_jh/cm/command/jh_api_calendar_2017_4.json|sh /sdcard/smilemods/rentvpsvultr/parsrj.sh|/data/data/com.kknet.term/bin/busybox grep '^\$.response_data.items\[0\].text '|busybox sed 's/^[^ ]* //' )
+#name=$(echo $name|sed 's/\s/\\s/g')
+/data/data/com.kknet.term/bin/busybox cat /sdcard/smilemods/namepunch/jh_api_userinfo.json | busybox sed -e 's/蓼沼　大輝/'$name'/g' >/sdcard/smilezemi_jh/cm/command/jh_api_userinfo.json
+echo "nameseted"
+fi
