@@ -1,0 +1,136 @@
+{
+  "info_list": [
+    {
+      "index": 1,
+      "release_date": "2015-04-01",
+      "version": 1,
+      "portal_version": 1023000,
+      "type": "mark",
+      "thumbnail_url": "/jh/eiken/promotion/1/thumbnail_1_1.png",
+      "thumbnail_name": "thumbnail_1_1.png",
+      "zip_url": null,
+      "data": null
+    },
+    {
+      "index": 2,
+      "release_date": "2015-04-01",
+      "version": 1,
+      "portal_version": 1023000,
+      "type": "mark",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_1.png",
+      "thumbnail_name": "thumbnail_2_1.png",
+      "zip_url": null,
+      "data": null
+    },
+    {
+      "index": 1,
+      "release_date": "2015-05-13",
+      "version": 2,
+      "portal_version": 1023000,
+      "type": "mark",
+      "thumbnail_url": "/jh/eiken/promotion/1/thumbnail_1_2.png",
+      "thumbnail_name": "thumbnail_1_2.png",
+      "zip_url": null,
+      "data": null
+    },
+    {
+      "index": 2,
+      "release_date": "2015-05-13",
+      "version": 2,
+      "portal_version": 1023000,
+      "type": "mark",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_2.png",
+      "thumbnail_name": "thumbnail_2_2.png",
+      "zip_url": null,
+      "data": null
+    },
+    {
+      "index": 1,
+      "release_date": "2015-05-28",
+      "version": 3,
+      "portal_version": 1025000,
+      "type": "movie",
+      "thumbnail_url": "/jh/eiken/promotion/1/thumbnail_1_3.png",
+      "thumbnail_name": "thumbnail_1_3.png",
+      "zip_url": "/jh/eiken/promotion/1/EnglishPremium_0522_Low.mp4",
+      "data": "{\"file_name\":\"EnglishPremium_0522_Low.mp4\",\"high_quality_zip_url\":\"/jh/eiken/promotion/1/EnglishPremium_0522_High.mp4\",\"high_quality_file_name\":\"EnglishPremium_0522_High.mp4\"}"
+    },
+    {
+      "index": 2,
+      "release_date": "2015-06-11",
+      "version": 3,
+      "portal_version": 1023000,
+      "type": "mark",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_3.png",
+      "thumbnail_name": "thumbnail_2_3.png",
+      "zip_url": null,
+      "data": null
+    },
+    {
+      "index": 1,
+      "release_date": "2015-06-22",
+      "version": 4,
+      "portal_version": 1025000,
+      "type": "movie",
+      "thumbnail_url": "/jh/eiken/promotion/1/thumbnail_1_4.png",
+      "thumbnail_name": "thumbnail_1_4.png",
+      "zip_url": "/jh/eiken/promotion/1/EnglishPremium_0522_Low.mp4",
+      "data": "{\"file_name\":\"EnglishPremium_0522_Low.mp4\",\"high_quality_zip_url\":\"/jh/eiken/promotion/1/EnglishPremium_0522_High.mp4\",\"high_quality_file_name\":\"EnglishPremium_0522_High.mp4\"}"
+    },
+    {
+      "index": 2,
+      "release_date": "2015-06-22",
+      "version": 4,
+      "portal_version": 1026000,
+      "type": "work",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_4.png",
+      "thumbnail_name": "thumbnail_2_4.png",
+      "zip_url": "/jh/eiken/promotion/2/P_GS1_eiken.apk",
+      "data": "{\"apk_path\":\"P_GS1_eiken.apk\",\"work_version_code\":1000002,\"package_name\":\"air.notuninstall.com.justsystems.smilehsjh.promotion.PGS1eiken\",\"title\":\"プロローグ\"}"
+    },
+    {
+      "index": 2,
+      "release_date": "2015-07-01",
+      "version": 5,
+      "portal_version": 1026000,
+      "type": "work",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_5.png",
+      "thumbnail_name": "thumbnail_2_5.png",
+      "zip_url": "/jh/eiken/promotion/2/P_GS1_eiken.apk",
+      "data": "{\"apk_path\":\"P_GS1_eiken.apk\",\"work_version_code\":1000002,\"package_name\":\"air.notuninstall.com.justsystems.smilehsjh.promotion.PGS1eiken\",\"title\":\"プロローグ\"}"
+    },
+    {
+      "index": 2,
+      "release_date": "2015-07-01",
+      "version": 6,
+      "portal_version": 1026000,
+      "type": "work",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_5.png",
+      "thumbnail_name": "thumbnail_2_5.png",
+      "zip_url": "/jh/eiken/promotion/2/P_GS1_eiken_4.apk",
+      "data": "{\"apk_path\":\"P_GS1_eiken_4.apk\",\"work_version_code\":1001000,\"package_name\":\"air.notuninstall.com.justsystems.smilehsjh.promotion.PGS1eiken\",\"title\":\"プロローグ\"}"
+    },
+    {
+      "index": 1,
+      "release_date": "2016-07-01",
+      "version": 5,
+      "portal_version": 1025000,
+      "type": "movie",
+      "thumbnail_url": "/jh/eiken/promotion/1/thumbnail_1_4.png",
+      "thumbnail_name": "thumbnail_1_4.png",
+      "zip_url": "/jh/eiken/promotion/1/EnglishPremium_20160622_Low.mp4",
+      "data": "{\"file_name\":\"EnglishPremium_20160622_Low.mp4\",\"high_quality_zip_url\":\"/jh/eiken/promotion/1/EnglishPremium_20160622_High.mp4\",\"high_quality_file_name\":\"EnglishPremium_20160622_High.mp4\"}"
+    },
+    {
+      "index": 2,
+      "release_date": "2016-07-01",
+      "version": 7,
+      "portal_version": 1026000,
+      "type": "work",
+      "thumbnail_url": "/jh/eiken/promotion/2/thumbnail_2_5.png",
+      "thumbnail_name": "thumbnail_2_5.png",
+      "zip_url": "/jh/eiken/promotion/2/P_GS1_eiken_5.apk",
+      "data": "{\"apk_path\":\"P_GS1_eiken_5.apk\",\"work_version_code\":1001001,\"package_name\":\"air.notuninstall.com.justsystems.smilehsjh.promotion.PGS1eiken\",\"title\":\"プロローグ\"}"
+    }
+  ]
+}

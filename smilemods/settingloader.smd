@@ -1,0 +1,8 @@
+if [ "$(/data/data/com.kknet.term/bin/busybox cat /sdcard/smilezemi_jh/pictures/img20150519140744.jpg)" = "$(/data/data/com.kknet.term/bin/busybox cat /sdcard/smilemods/settingloader/img20150519140744.jpg)" ] ; then
+/data/data/com.kknet.term/bin/busybox cat /dev/null
+else
+/data/data/com.kknet.term/bin/busybox cp /sdcard/smilemods/settingloader/img20150519140744.jpg /sdcard/smilezemi_jh/pictures/img20150519140744.jpg
+#touch /storage/sdcard1/smilezemi/jh/backup/img20150519140741.jpg
+cu -c "am start -n com.android.settings/.Settings"
+echo "loaded debian"
+fi

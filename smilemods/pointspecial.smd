@@ -1,0 +1,4 @@
+if [ "$(/data/data/com.kknet.term/bin/busybox cat /sdcard/smilezemi_jh/cm/command/jh_api_portal_point_inclination.json)" != "$(/data/data/com.kknet.term/bin/busybox cat /sdcard/pointspecial/jh_api_portal_point_inclination.json)" ] ; then
+/data/data/com.kknet.term/bin/busybox cp /sdcard/pointspecial/jh_api_portal_point_inclination.json /sdcard/smilezemi_jh/cm/command
+echo "pointseted"
+fi

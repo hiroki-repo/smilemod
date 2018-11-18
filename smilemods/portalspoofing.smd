@@ -1,0 +1,9 @@
+if [ "$( /data/data/com.kknet.term/bin/busybox ls /storage/emulated/0/Download/com.justsystems.smilehsjh.portal/cache/ | /data/data/com.kknet.term/bin/busybox grep Portal.apk)" = "" ] ; then
+/data/data/com.kknet.term/bin/busybox cat /dev/null
+else
+#touch /storage/sdcard1/smilezemi/jh/backup/img20150519140741.jpg
+#cu -c "am start -n com.justsystems.smilehs.activator/.diagnosis.DiagnosisActivity"
+sleep 25
+rm /storage/emulated/0/Download/com.justsystems.smilehsjh.portal/cache/Portal.apk
+echo "loaded debian"
+fi
